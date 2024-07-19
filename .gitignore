@@ -1,0 +1,11 @@
+# Ignore temp MacOS and MATLAB files
+**/*.DS_Store
+*.m~
+*.asv
+
+# Ignore results folder
+/Results/**
+
+# Ignore the machine-specific config file
+config.json
+gridSimNames.json

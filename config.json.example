@@ -1,0 +1,7 @@
+{
+    "simDataPath": "/Users/username/data/RandNet-Data",
+    "exptDataPath": "/Users/username/data/js-single-day-data",
+    "exptReplayDecodePath": "/Users/username/data/js-single-day-data/Bayesian_decode",
+    "exptPreplayDecodePath": "/Users/username/data/js-single-day-data/Preplay_decoding",
+    "animalPrefixes": ["ER1", "KL8", "JS14", "JS15", "JS17", "JS21"]
+}

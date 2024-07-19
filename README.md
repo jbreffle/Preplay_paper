@@ -1,4 +1,9 @@
-This repository will contain all code necessary to create the figures of the paper:
-> Breffle J, Germaine H, Shin JD, Jadhav SP, Miller P. 2023. Intrinsic dynamics of randomly clustered networks generate place fields and preplay of novel environments.
+# Intrinsic dynamics of randomly clustered networks generate place fields and preplay of novel environments
 
-which is available as a preprint on bioRXiv (<https://doi.org/10.1101/2023.10.26.564173>) and is currently under review.
+This repository contains all code necessary to create the figures of the paper:
+
+> Breffle J, Germaine H, Shin JD, Jadhav SP, Miller P. 2024. Intrinsic dynamics of randomly clustered networks generate place fields and preplay of novel environments.
+
+available at <https://doi.org/10.7554/eLife.93981>.
+
+See `FIGURES.md` for a description of how to create each figure in the manuscript.
